@@ -1,0 +1,9 @@
+[submodule "HeadHome-App"]
+	path = HeadHome-App
+	url = https://github.com/GSC23-HeadHome/HeadHome-App.git
+[submodule "HeadHome-Hardware"]
+	path = HeadHome-Hardware
+	url = https://github.com/GSC23-HeadHome/HeadHome-Hardware.git
+[submodule "HeadHome-Backend"]
+	path = HeadHome-Backend
+	url = https://github.com/GSC23-HeadHome/HeadHome-Backend.git
