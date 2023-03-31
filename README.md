@@ -31,6 +31,23 @@ With the onset of an ageing population, the prevalence of dementia has risen dra
 
 ## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 
+### SDG 3: Good Health and Well-Being
+
+![SDG3](assets/SDG3.png)
+
+HeadHome directly addresses the issue of **dementia wandering**.
+
+For Dementia Patients, the HeadHome wearable provides simple and clear instructions to guide them when they are lost, ensuring their safety and protection under such unprecedented situations.
+
+For Caregivers, HeadHome provides them with a peace of mind and removes any lingering concerns on the back of their minds.
+
+### SDG 11: Sustainable Cities and Communities
+
+![SDG11](assets/SDG11.png)
+
+HeadHome seeks to **leverage the power of the community** to improve the lives of dementia patients. Most caregivers have full-time jobs and cannot be with their care receivers 24/7. To ensure that dementia patients receive help whenever necessary, registered volunteers will be recruited from the community. Care givers can send out an SOS message to volunteers near the vulnerable patient and seek their help to guide them back home. 
+
+
 ## 🖥️ &nbsp;Technology Stack
 
 <div align="center">
