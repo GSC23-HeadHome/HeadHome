@@ -35,7 +35,7 @@ With the onset of an ageing population, the prevalence of dementia has risen dra
 
 1. Dementia Patient
 
-The `Dementia Patients` can request for help from their `Caregiver` and begin the navigation back home by tapping on the red `Navigate Home` button on their home page. The application will also begin navigation when the `Patient` leaves the configurable safezone radius around their home, or when they press the red button the companion wrist wearable device.
+The `Dementia Patient` can request for help from their `Caregiver` and begin the navigation back home by tapping on the red `Navigate Home` button on their home page. The application will also begin navigation when the `Patient` leaves the configurable safezone radius around their home, or when they press the red button the companion wrist wearable device.
 
 This will display a route home on the Google Maps widget. This route will be updated as the patient goes along, rerouting when necessary.
 
@@ -43,13 +43,13 @@ The patient would each have an Authentication ID which is used to ensure that th
 
 2. Caregiver
 
-The `Caregiver` will receive a notification when their respective `Patients` have started to navigate home. This will inform them about the `Patient's` current location, and also allow them to choose to send an SOS alert signal to `volunteers`. 
+The `Caregiver` will receive a notification when their respective `Patients` have started to navigate home. This will inform them about the `Patient's` current location, and also allow them to choose to send an SOS alert signal to `Volunteers`. 
 
 The `Caregiver` will then be able to contact the `Volunteers` who have started to guide the `Patient` back home through the `contact` button of the application. 
 
 3. Volunteers
 
-Volunteers would be able to view all the patient's SOS alerts, and select the patient they wish to help. The app would provide them with the current location of the patient, and also allow them to redirect to Google Maps to find their way to these caregivers. 
+Volunteers would be able to view all nearby SOS alerts, and select the patient they wish to help. The app would provide them with the current location of the patient, and also allow them to redirect to Google Maps to find their way to these caregivers. 
 
 Thereafter, when the volunteers reach the patient, they would be able to start leading them home after verifying the `Patient's` Authentication ID
 
