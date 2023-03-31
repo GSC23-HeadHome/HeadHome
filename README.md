@@ -33,33 +33,40 @@ With the onset of an ageing population, the prevalence of dementia has risen dra
 
 ## 🖥️ &nbsp;Technology Stack
 
+<div align="center">
 <kbd>
-<img src="./assets/icons/Flutter.png" height="50" />
+<img src="./assets/icons/Flutter.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Dart.png" height="50" />
+<img src="./assets/icons/Dart.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Firebase.png" height="50" />
+<img src="./assets/icons/Firebase.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Go.png" height="50" />
+<img src="./assets/icons/Go.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Gin.png" height="50" />
+<img src="./assets/icons/Gin.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/GCP.png" height="50" />
+<img src="./assets/icons/GCP.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Maps.png" height="50" />
+<img src="./assets/icons/Maps.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Arduino.png" height="50" />
+<img src="./assets/icons/Arduino.png" height="60" />
 </kbd>
 <kbd>
-<img src="./assets/icons/ESP32.png" height="50" />
+<img src="./assets/icons/ESP32.png" height="60" />
 </kbd>
+
+<strong width="60">Flutter</strong>
+<strong width="60">Dart</strong>
+<strong width="60">Firebase</strong>
+
+</div>
 
 ## 👥 &nbsp;Contributors
 
