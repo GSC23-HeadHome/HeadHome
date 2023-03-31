@@ -20,7 +20,7 @@ HeadHome aims to reduce the dangers posed by dementia wandering, and provide the
 ## Problem Statement
 <br/>
 <blockquote align='center'>
-<h3>"6 in 10 people with dementia will experience wandering episodes." 
+<h3>“6 in 10 people with dementia will experience wandering episodes.” 
 
 \- Alzheimer's Association
 </h3>
