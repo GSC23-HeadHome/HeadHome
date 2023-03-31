@@ -4,14 +4,14 @@
   <img width="200px" src="https://firebasestorage.googleapis.com/v0/b/gsc23-12e94.appspot.com/o/members%2Fheadhome_square.png?alt=media&token=96a55b42-7c9f-4e68-b41f-d986efe79c01" alt=""/>
   </div>
   <h3><b>HeadHome</b></h3>
-  <p>Dementia Aid Solution</p>
+  <p>Your companion, every step of the way</p>
 </div>
 <br />
 <h1 align="center">HeadHome</h1>
 
 ![HeadHome](assets/HeadHome.png)
 
-**HeadHome: Your Go-To Dementia Aid Solution**.
+**HeadHome: Your Go-To Dementia Aid Solution**
 
 HeadHome aims to reduce the dangers posed by dementia wandering, and provide the caregivers of our dementia counterparts with an effective means of locating them and safely returning them home.
 
@@ -32,6 +32,34 @@ With the onset of an ageing population, the prevalence of dementia has risen dra
 ## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 
 ## 🖥️ &nbsp;Technology Stack
+
+<kbd>
+<img src="./assets/icons/Flutter.png" height="30" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Dart.png" height="30" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Firebase.png" height="30" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Go.png" height="30" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Gin.png" height="30" />
+</kbd>
+<kbd>
+<img src="./assets/icons/GCP.png" height="30" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Maps.png" height="30" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Flutter.png" height="30" />
+</kbd>
+<kbd>
+<img src="./assets/icons/Flutter.png" height="30" />
+</kbd>
 
 ## 👥 &nbsp;Contributors
 
