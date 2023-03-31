@@ -49,9 +49,9 @@ The `Caregiver` will then be able to contact the `Volunteers` who have started t
 
 3. Volunteers
 
-Volunteers would be able to view all the care receiver's SOS alerts, and select the care receiver they wish to help. The app would provide them with the current location of the care receiver, and also allow them to redirect to Google Maps to find their way to these care givers. 
+Volunteers would be able to view all the patient's SOS alerts, and select the patient they wish to help. The app would provide them with the current location of the patient, and also allow them to redirect to Google Maps to find their way to these caregivers. 
 
-Thereafter, when the volunteers reach the care receiver, they would be able to start leading them home after verifying the `Patient's` Authentication ID
+Thereafter, when the volunteers reach the patient, they would be able to start leading them home after verifying the `Patient's` Authentication ID
 
 ## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 
