@@ -110,8 +110,7 @@ HeadHome **leverages the power of the community** to improve the lives of dement
 # Getting Started
 [Flutter `(Version 2.19.2+)`](https://docs.flutter.dev/get-started/install) must be installed to run this application.
 
-Detailed instructions on how to run the application can be found [here]
-(https://github.com/GSC23-HeadHome/HeadHome-App/blob/main/README.md#getting-started)
+Detailed instructions on how to run the application can be found [here](https://github.com/GSC23-HeadHome/HeadHome-App/blob/main/README.md#getting-started).
 
 ## 👥 &nbsp;Contributors
 
