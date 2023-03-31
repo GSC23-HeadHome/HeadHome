@@ -81,6 +81,7 @@ HeadHome seeks to **leverage the power of the community** to improve the lives o
 <img src="./assets/icons/ESP32.png" height="60" />
 </kbd>
 </div>
+<h4>Flutter | Dart | Firebase | Go | Gin | Google Cloud Platform | Google Maps Platform | Arduino | ESP32</h4>
 
 ## 👥 &nbsp;Contributors
 
