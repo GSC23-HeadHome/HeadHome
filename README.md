@@ -29,7 +29,29 @@ HeadHome aims to reduce the dangers posed by dementia wandering, and provide the
 
 With the onset of an ageing population, the prevalence of dementia has risen drastically over the years. People with dementia often **experience confusion, disorientation, and memory loss**, which can cause them to wander away from their homes or care facilities without realising where they are going. Dementia wandering episodes are not only **physically dangerous** for patients, but also **emotionally traumatic** for their caregivers.
 
-## 🎥 &nbsp;Demo Video
+## 🛠️ &nbsp;Key Functionalities
+
+![Key Functionalities](assets/Key_Functionalities.jpg)
+
+1. Dementia Patient
+
+The `Dementia Patients` can request for help from their `Caregiver` and begin the navigation back home by tapping on the red `Navigate Home` button on their home page. The application will also begin navigation when the `Patient` leaves the configurable safezone radius around their home, or when they press the red button the companion wrist wearable device.
+
+This will display a route home on the Google Maps widget. This route will be updated as the patient goes along, rerouting when necessary.
+
+The patient would each have an Authentication ID which is used to ensure that the `Volunteer` will only have access to the `Patient's` home address when they have actually met them. 
+
+2. Caregiver
+
+The `Caregiver` will receive a notification when their respective `Patients` have started to navigate home. This will inform them about the `Patient's` current location, and also allow them to choose to send an SOS alert signal to `volunteers`. 
+
+The `Caregiver` will then be able to contact the `Volunteers` who have started to guide the `Patient` back home through the `contact` button of the application. 
+
+3. Volunteers
+
+Volunteers would be able to view all the care receiver's SOS alerts, and select the care receiver they wish to help. The app would provide them with the current location of the care receiver, and also allow them to redirect to Google Maps to find their way to these care givers. 
+
+Thereafter, when the volunteers reach the care receiver, they would be able to start leading them home after verifying the `Patient's` Authentication ID
 
 ## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 
@@ -50,7 +72,7 @@ For Caregivers, HeadHome provides them with a peace of mind and removes any ling
 HeadHome seeks to **leverage the power of the community** to improve the lives of dementia patients. Most caregivers have full-time jobs and cannot be with their loved ones all the time. To ensure that dementia patients receive help whenever necessary, registered volunteers will be recruited from the community. Caregivers can send out an SOS message to volunteers near the vulnerable patient and seek their help to guide them back home. 
 
 
-## 🖥️ &nbsp;Technology Stack
+## 👨🏻‍💻 &nbsp;Technology Stack
 
 <div align="center">
 <kbd>
