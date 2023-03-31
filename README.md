@@ -107,6 +107,12 @@ HeadHome **leverages the power of the community** to improve the lives of dement
 <h4>Flutter | Dart | Firebase | Go | Gin | Google Cloud Platform | Google Maps Platform | Arduino | ESP32</h4>
 </div>
 
+# Getting Started
+[Flutter `(Version 2.19.2+)`](https://docs.flutter.dev/get-started/install) must be installed to run this application.
+
+Detailed instructions on how to run the application can be found [here]
+(https://github.com/GSC23-HeadHome/HeadHome-App/blob/main/README.md#getting-started)
+
 ## 👥 &nbsp;Contributors
 
 |<a href="https://github.com/chayhuixiang"><img width="180px" src="https://firebasestorage.googleapis.com/v0/b/gsc23-12e94.appspot.com/o/members%2Fhuixiang.jpeg?alt=media&token=96a55b42-7c9f-4e68-b41f-d986efe79c01" alt=""/></a>|<a href="https://github.com/changdaozheng"><img width="180px" src="https://firebasestorage.googleapis.com/v0/b/gsc23-12e94.appspot.com/o/members%2Fdaozheng.jpeg?alt=media&token=96a55b42-7c9f-4e68-b41f-d986efe79c01" alt=""/></a>|<a href="https://github.com/Trigon25"><img width="180px" src="https://firebasestorage.googleapis.com/v0/b/gsc23-12e94.appspot.com/o/members%2Fmarc.jpeg?alt=media&token=96a55b42-7c9f-4e68-b41f-d986efe79c01" alt=""/></a>| <a href="https://github.com/ongjx16"><img width="180px" src="https://firebasestorage.googleapis.com/v0/b/gsc23-12e94.appspot.com/o/members%2Fjingxuan.jpeg?alt=media&token=96a55b42-7c9f-4e68-b41f-d986efe79c01" alt=""/></a>
