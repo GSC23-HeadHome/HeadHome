@@ -61,11 +61,6 @@ With the onset of an ageing population, the prevalence of dementia has risen dra
 <kbd>
 <img src="./assets/icons/ESP32.png" height="60" />
 </kbd>
-
-<strong width="60">Flutter</strong>
-<strong width="60">Dart</strong>
-<strong width="60">Firebase</strong>
-
 </div>
 
 ## 👥 &nbsp;Contributors
