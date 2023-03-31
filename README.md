@@ -27,13 +27,13 @@ HeadHome aims to reduce the dangers posed by dementia wandering, and provide the
 
 With the onset of an ageing population, the prevalence of dementia has risen drastically over the years. People with dementia often **experience confusion, disorientation, and memory loss**, which can cause them to wander away from their homes or care facilities without realising where they are going. Dementia wandering episodes are not only **physically dangerous** for patients, but also **emotionally traumatic** for their caregivers.
 
-# Demo Video
+## 🎥 &nbsp;Demo Video
 
-# 🎯 &nbsp;UN's Sustainable Development Goals & Targets
+## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 
-# 🖥️ Technology Stack
+## 🖥️ &nbsp;Technology Stack
 
-# 👥 Contributors
+## 👥 &nbsp;Contributors
 
 |<img width="180px" src="https://firebasestorage.googleapis.com/v0/b/gsc23-12e94.appspot.com/o/members%2Fhuixiang.jpeg?alt=media&token=96a55b42-7c9f-4e68-b41f-d986efe79c01" alt=""/>|<img width="180px" src="https://firebasestorage.googleapis.com/v0/b/gsc23-12e94.appspot.com/o/members%2Fdaozheng.jpeg?alt=media&token=96a55b42-7c9f-4e68-b41f-d986efe79c01" alt=""/>|<img width="180px" src="https://firebasestorage.googleapis.com/v0/b/gsc23-12e94.appspot.com/o/members%2Fmarc.jpeg?alt=media&token=96a55b42-7c9f-4e68-b41f-d986efe79c01" alt=""/>| <img width="180px" src="https://firebasestorage.googleapis.com/v0/b/gsc23-12e94.appspot.com/o/members%2Fjingxuan.jpeg?alt=media&token=96a55b42-7c9f-4e68-b41f-d986efe79c01" alt=""/>
 |--------------------------|--------------------------|--------------------------|--------------------------|
