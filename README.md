@@ -47,7 +47,7 @@ For Caregivers, HeadHome provides them with a peace of mind and removes any ling
 
 ![SDG11](assets/SDG11.png)
 
-HeadHome seeks to **leverage the power of the community** to improve the lives of dementia patients. Most caregivers have full-time jobs and cannot be with their care receivers 24/7. To ensure that dementia patients receive help whenever necessary, registered volunteers will be recruited from the community. Care givers can send out an SOS message to volunteers near the vulnerable patient and seek their help to guide them back home. 
+HeadHome seeks to **leverage the power of the community** to improve the lives of dementia patients. Most caregivers have full-time jobs and cannot be with their loved ones all the time. To ensure that dementia patients receive help whenever necessary, registered volunteers will be recruited from the community. Caregivers can send out an SOS message to volunteers near the vulnerable patient and seek their help to guide them back home. 
 
 
 ## 🖥️ &nbsp;Technology Stack
