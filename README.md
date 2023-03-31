@@ -1,12 +1,14 @@
-<br />
+<br>
 <div align="center">
-  <div>
-  <img width="200px" src="https://firebasestorage.googleapis.com/v0/b/gsc23-12e94.appspot.com/o/members%2Fheadhome_square.png?alt=media&token=96a55b42-7c9f-4e68-b41f-d986efe79c01" alt=""/>
-  </div>
-  <h3><b>HeadHome</b></h3>
-  <p>Your companion, every step of the way</p>
+    <div >
+        <img width="200px" src="https://firebasestorage.googleapis.com/v0/b/gsc23-12e94.appspot.com/o/members%2Fheadhome_square.png?alt=media&token=96a55b42-7c9f-4e68-b41f-d986efe79c01" alt=""/>
+    </div>
+    <div>
+            <p style="font-size:50px;"><b>HeadHome</b></p>
+            <p style="font-size:18px"><i>Your companion, every step of the way</i></p>
+    </div>      
 </div>
-<br />
+<br>
 <h1 align="center">HeadHome</h1>
 
 ![HeadHome](assets/HeadHome.png)
