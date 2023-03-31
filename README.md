@@ -34,31 +34,31 @@ With the onset of an ageing population, the prevalence of dementia has risen dra
 ## 🖥️ &nbsp;Technology Stack
 
 <kbd>
-<img src="./assets/icons/Flutter.png" height="30" />
+<img src="./assets/icons/Flutter.png" height="50" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Dart.png" height="30" />
+<img src="./assets/icons/Dart.png" height="50" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Firebase.png" height="30" />
+<img src="./assets/icons/Firebase.png" height="50" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Go.png" height="30" />
+<img src="./assets/icons/Go.png" height="50" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Gin.png" height="30" />
+<img src="./assets/icons/Gin.png" height="50" />
 </kbd>
 <kbd>
-<img src="./assets/icons/GCP.png" height="30" />
+<img src="./assets/icons/GCP.png" height="50" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Maps.png" height="30" />
+<img src="./assets/icons/Maps.png" height="50" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Flutter.png" height="30" />
+<img src="./assets/icons/Arduino.png" height="50" />
 </kbd>
 <kbd>
-<img src="./assets/icons/Flutter.png" height="30" />
+<img src="./assets/icons/ESP32.png" height="50" />
 </kbd>
 
 ## 👥 &nbsp;Contributors
