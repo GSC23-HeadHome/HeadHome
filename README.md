@@ -11,7 +11,7 @@
 <br>
 <h1 align="center">HeadHome</h1>
 
-![HeadHome](assets/HeadHome.png)
+![HeadHome](assets/headhome.png)
 
 **HeadHome: Your Go-To Dementia Aid Solution**
 
@@ -39,7 +39,7 @@ With the onset of an ageing population, the prevalence of dementia has risen dra
 
 ## 🛠️ &nbsp;Key Functionalities
 
-![Key Functionalities](assets/Key_Functionalities.jpg)
+![Key Functionalities](assets/key-functionalities.jpg)
 
 1. Dementia Patient
 
@@ -113,6 +113,46 @@ HeadHome **leverages the power of the community** to improve the lives of dement
 <div align="center">
 <h4>Flutter | Dart | Firebase | Go | Gin | Google Cloud Platform | Google Maps Platform | Arduino | ESP32</h4>
 </div>
+
+## ☁️ &nbsp;Enterprise Cloud Architecture & Services
+
+![cloud architecture](./assets/cloud-architecture.png)
+
+1. Presentation Layer
+
+**Users** of HeadHome will directly interact with the Presentation Layer, namely the HeadHome wearable built with **Arduino & ESP32**, as well as the HeadHome mobile application built with **Flutter & Dart**. Any business or computational logic is abstracted onto the serverless backend hosted on **Cloud Run**.
+
+For more information:
+
+HeadHome hardware wearable: [Link](https://github.com/GSC23-HeadHome/HeadHome-Hardware)
+
+HeadHome frontend mobile application: [Link](https://github.com/GSC23-HeadHome/HeadHome-App)
+
+HeadHome backend: [Link](https://github.com/GSC23-HeadHome/HeadHome-Backend)
+
+2. CI/CD Pipeline
+
+For **developers**, the HeadHome project comes with a fully integrated CI/CD pipeline equipped with auto-deployment from **Github**. Any code changes to the [HeadHome Backend Repository](https://github.com/GSC23-HeadHome/HeadHome-Backend) will be automatically mirrored onto **Google Cloud Source Repositories** and containerised into **Artifact Registry** via **Cloud Build**. Coupled with **Secret Manager**, the backend container is deployed serverless via **Cloud Run**.
+
+3. Backend Services & Storage Layer
+
+Many miscellaneous backend and storage services abstracted and handled via **Google Cloud**, as detailed below.
+
+| Google Cloud Service     | Purpose & Use                                                                                 |
+| ------------------------ | --------------------------------------------------------------------------------------------- |
+| Google Maps Platform     | Directions API to display route back home & Maps SDK to display map on the mobile application |
+| Firebase Cloud Messaging | Handles push notifications to caregivers                                                      |
+| Firebase Authentication  | Handles all authentication related painpoints                                                 |
+| Firebase Storage         | Stores profile assets for the frontend application                                            |
+| Firebase Cloud Firestore | Main production database for all business storage purposes                                    |
+
+4. Analysis Layer
+
+For **business stakeholders** who are looking to gather critical business intelligence, such as the amount of resources required for each geographical area, the data from our **Cloud Firestore** database is streamed to **Google BigQuery**, and pumped to **Looker Studio** as a business intelligence monitoring platform.
+
+5. Operations Layer
+
+For **business stakeholders** looking to gather operational metrics, HeadHome comes with an Operations Layer including **Cloud Monitoring** and **Cloud Logging**. These Google Cloud Platform services are integral to gain a more holistic profiling of our users and a better understanding of our internal services.
 
 # Getting Started
 
