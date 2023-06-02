@@ -41,7 +41,7 @@ With the onset of an ageing population, the prevalence of dementia has risen dra
 
 ![Key Functionalities](assets/key-functionalities.jpg)
 
-1. Dementia Patient
+### 1. Dementia Patient
 
 The `Dementia Patient` can request for help from their `Caregiver` and begin the navigation back home by tapping on the red `Navigate Home` button on their home page. The application will also begin navigation when the `Patient` leaves the configurable safezone radius around their home, or when they press the red button the companion wrist wearable device.
 
@@ -49,13 +49,13 @@ This will display a route home on the Google Maps widget. This route will be upd
 
 The patient would each have an Authentication ID which is used to ensure that the `Volunteer` will only have access to the `Patient's` home address when they have actually met them.
 
-2. Caregiver
+### 2. Caregiver
 
 The `Caregiver` will receive a notification when their respective `Patients` have started to navigate home. This will inform them about the `Patient's` current location, and also allow them to choose to send an SOS alert signal to `Volunteers`.
 
 The `Caregiver` will then be able to contact the `Volunteers` who have started to guide the `Patient` back home through the `contact` button of the application.
 
-3. Volunteers
+### 3. Volunteers
 
 Volunteers would be able to view all nearby SOS alerts, and select the patient they wish to help. The app would provide them with the current location of the patient, and also allow them to redirect to Google Maps to find their way to these caregivers.
 
@@ -118,7 +118,7 @@ HeadHome **leverages the power of the community** to improve the lives of dement
 
 ![cloud architecture](./assets/cloud-architecture.png)
 
-1. Presentation Layer
+### 1. Presentation Layer
 
 **Users** of HeadHome will directly interact with the Presentation Layer, namely the HeadHome wearable built with **Arduino & ESP32**, as well as the HeadHome mobile application built with **Flutter & Dart**. Any business or computational logic is abstracted onto the serverless backend hosted on **Cloud Run**.
 
@@ -130,11 +130,11 @@ HeadHome frontend mobile application: [Link](https://github.com/GSC23-HeadHome/H
 
 HeadHome backend: [Link](https://github.com/GSC23-HeadHome/HeadHome-Backend)
 
-2. CI/CD Pipeline
+### 2. CI/CD Pipeline
 
 For **developers**, the HeadHome project comes with a fully integrated CI/CD pipeline equipped with auto-deployment from **Github**. Any code changes to the [HeadHome Backend Repository](https://github.com/GSC23-HeadHome/HeadHome-Backend) will be automatically mirrored onto **Google Cloud Source Repositories** and containerised into **Artifact Registry** via **Cloud Build**. Coupled with **Secret Manager**, the backend container is deployed serverless via **Cloud Run**.
 
-3. Backend Services & Storage Layer
+### 3. Backend Services & Storage Layer
 
 Many miscellaneous backend and storage services abstracted and handled via **Google Cloud**, as detailed below.
 
@@ -146,11 +146,11 @@ Many miscellaneous backend and storage services abstracted and handled via **Goo
 | Firebase Storage         | Stores profile assets for the frontend application                                            |
 | Firebase Cloud Firestore | Main production database for all business storage purposes                                    |
 
-4. Analysis Layer
+### 4. Analysis Layer
 
 For **business stakeholders** who are looking to gather critical business intelligence, such as the amount of resources required for each geographical area, the data from our **Cloud Firestore** database is streamed to **Google BigQuery**, and pumped to **Looker Studio** as a business intelligence monitoring platform.
 
-5. Operations Layer
+### 5. Operations Layer
 
 For **business stakeholders** looking to gather operational metrics, HeadHome comes with an Operations Layer including **Cloud Monitoring** and **Cloud Logging**. These Google Cloud Platform services are integral to gain a more holistic profiling of our users and a better understanding of our internal services.
 
