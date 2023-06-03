@@ -43,23 +43,23 @@ With the onset of an ageing population, the prevalence of dementia has risen dra
 
 ### 1. Dementia Patient
 
-The `Dementia Patient` can request for help from their `Caregiver` and begin the navigation back home by tapping on the red `Navigate Home` button on their home page. The application will also begin navigation when the `Patient` leaves the configurable safezone radius around their home, or when they press the red button the companion wrist wearable device.
+The **`Dementia Patient`** can request for help from their **`Caregiver`** and begin the navigation back home by tapping on the red **`Navigate Home`** button on their home page. The application will also begin navigation when the **`Patient`** leaves the configurable safezone radius around their home, or when they press the red button the companion wrist wearable device.
 
 This will display a route home on the Google Maps widget. This route will be updated as the patient goes along, rerouting when necessary.
 
-The patient would each have an Authentication ID which is used to ensure that the `Volunteer` will only have access to the `Patient's` home address when they have actually met them.
+The patient would each have an Authentication ID which is used to ensure that the **`Volunteer`** will only have access to the **`Patient's`** home address when they have actually met them.
 
 ### 2. Caregiver
 
-The `Caregiver` will receive a notification when their respective `Patients` have started to navigate home. This will inform them about the `Patient's` current location, and also allow them to choose to send an SOS alert signal to `Volunteers`.
+The **`Caregiver`** will receive a notification when their respective **`Patients`** have started to navigate home. This will inform them about the **`Patient's`** current location, and also allow them to choose to send an SOS alert signal to **`Volunteers`**.
 
-The `Caregiver` will then be able to contact the `Volunteers` who have started to guide the `Patient` back home through the `contact` button of the application.
+The **`Caregiver`** will then be able to contact the **`Volunteers`** who have started to guide the **`Patient`** back home through the **`contact`** button of the application.
 
 ### 3. Volunteers
 
-Volunteers would be able to view all nearby SOS alerts, and select the patient they wish to help. The app would provide them with the current location of the patient, and also allow them to redirect to Google Maps to find their way to these caregivers.
+**`Volunteers`** would be able to view all nearby SOS alerts, and select the **`Patient`** they wish to help. The app would provide them with the current location of the **`Patient`**, and also allow them to redirect to Google Maps to find their way to these **`Caregivers`**.
 
-Thereafter, when the volunteers reach the patient, they would be able to start leading them home after verifying the `Patient's` Authentication ID
+Thereafter, when the **`Volunteers`** reach the **`Patient`**, they would be able to start leading them home after verifying the `Patient's` Authentication ID
 
 ![User Flow Diagram](assets/user-flow-diagram.png)
 > Click image to enlarge.
@@ -128,7 +128,7 @@ HeadHome **leverages the power of the community** to improve the lives of dement
 
 **Users** of HeadHome will directly interact with the Presentation Layer, namely the HeadHome wearable built with **Arduino & ESP32**, as well as the HeadHome mobile application built with **Flutter & Dart**. Any business or computational logic is abstracted onto the serverless backend hosted on **Cloud Run**. With Cloud Run's auto-scaling and load balancing capabilities, in the event of more traffic, our backend is able to seamlessly scale horizontally to meet the growing demands of the application. Due to the flexibility and versatility of Cloud Run, an external load balancer in the form of Google's **Cloud Load Balancing** could be tapped on to deploy our backend to multiple regions and further reduce latencies and downtime.
 
-For more information:
+**For more information:**
 
 HeadHome hardware wearable: [Link](https://github.com/GSC23-HeadHome/HeadHome-Hardware)
 
