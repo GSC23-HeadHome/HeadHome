@@ -156,6 +156,8 @@ Many miscellaneous backend and storage services abstracted and handled via **Goo
 
 ### 4. Analysis Layer
 
+![looker dashboard](./assets/looker-dashboard.png)
+
 For **business stakeholders** who are looking to gather critical business intelligence, such as the amount of resources required for each geographical area, the data from our **Cloud Firestore** database is streamed to **Google BigQuery**, and pumped to **Looker Studio** as a business intelligence monitoring platform.
 
 ### 5. Operations Layer
