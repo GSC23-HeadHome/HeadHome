@@ -61,7 +61,7 @@ Volunteers would be able to view all nearby SOS alerts, and select the patient t
 
 Thereafter, when the volunteers reach the patient, they would be able to start leading them home after verifying the `Patient's` Authentication ID
 
-![Key Functionalities](assets/user-flow-diagram.jpg)
+![User Flow Diagram](assets/user-flow-diagram.png)
 > Click image to enlarge.
 
 This user flow diagram gives an overview of the communication flows between the various stakeholders through HeadHome. 
