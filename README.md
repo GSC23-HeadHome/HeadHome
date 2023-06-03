@@ -61,6 +61,11 @@ Volunteers would be able to view all nearby SOS alerts, and select the patient t
 
 Thereafter, when the volunteers reach the patient, they would be able to start leading them home after verifying the `Patient's` Authentication ID
 
+![Key Functionalities](assets/user-flow-diagram.jpg)
+> Click image to enlarge.
+
+This user flow diagram gives an overview of the communication flows between the various stakeholders through HeadHome. 
+
 ## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 
 ### SDG 3: Good Health and Well-Being (Target: 3.6)
@@ -117,6 +122,7 @@ HeadHome **leverages the power of the community** to improve the lives of dement
 ## ☁️ &nbsp;Enterprise Cloud Architecture & Services
 
 ![Overall cloud architecture](./assets/cloud-architecture.png)
+> Click image to enlarge.
 
 ### 1. Presentation Layer
 
