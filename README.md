@@ -62,9 +62,10 @@ The **`Caregiver`** will then be able to contact the **`Volunteers`** who have s
 Thereafter, when the **`Volunteers`** reach the **`Patient`**, they would be able to start leading them home after verifying the `Patient's` Authentication ID
 
 ![User Flow Diagram](assets/user-flow-diagram.png)
+
 > Click image to enlarge.
 
-This user flow diagram gives an overview of the communication flows between the various stakeholders through HeadHome. 
+This user flow diagram gives an overview of the communication flows between the various stakeholders through HeadHome.
 
 ## 🎯 &nbsp;UN's Sustainable Development Goals & Targets
 
@@ -122,6 +123,7 @@ HeadHome **leverages the power of the community** to improve the lives of dement
 ## ☁️ &nbsp;Enterprise Cloud Architecture & Services
 
 ![Overall cloud architecture](./assets/cloud-architecture.png)
+
 > Click image to enlarge.
 
 ### 1. Presentation Layer
@@ -157,6 +159,8 @@ Many miscellaneous backend and storage services abstracted and handled via **Goo
 For **business stakeholders** who are looking to gather critical business intelligence, such as the amount of resources required for each geographical area, the data from our **Cloud Firestore** database is streamed to **Google BigQuery**, and pumped to **Looker Studio** as a business intelligence monitoring platform.
 
 ### 5. Operations Layer
+
+![cloud monitoring dashboard](./assets/cloud-monitoring-dashboard.png)
 
 For **business stakeholders** looking to gather operational metrics, HeadHome comes with an Operations Layer including **Cloud Monitoring** and **Cloud Logging**. These Google Cloud Platform services are integral to gain a more holistic profiling of our users and a better understanding of our services internally via uptime checks and alerts.
 
