@@ -64,6 +64,7 @@ Thereafter, when the **`Volunteers`** reach the **`Patient`**, they would be abl
 <a href="https://raw.githubusercontent.com/GSC23-HeadHome/HeadHome/main/assets/user-flow-diagram.png">
 <img src="./assets/user-flow-diagram.png" target="_blank" />
 </a>
+<br />
 
 > Click image to enlarge.
 
@@ -127,6 +128,7 @@ HeadHome **leverages the power of the community** to improve the lives of dement
 <a href="https://raw.githubusercontent.com/GSC23-HeadHome/HeadHome/main/assets/cloud-architecture.png">
 <img src="./assets/cloud-architecture.png" target="_blank" />
 </a>
+<br />
 
 > Click image to enlarge.
 
