@@ -61,7 +61,9 @@ The **`Caregiver`** will then be able to contact the **`Volunteers`** who have s
 
 Thereafter, when the **`Volunteers`** reach the **`Patient`**, they would be able to start leading them home after verifying the `Patient's` Authentication ID
 
+<a href="https://raw.githubusercontent.com/GSC23-HeadHome/HeadHome/main/assets/user-flow-diagram.png">
 ![User Flow Diagram](assets/user-flow-diagram.png)
+</a>
 
 > Click image to enlarge.
 
@@ -122,7 +124,9 @@ HeadHome **leverages the power of the community** to improve the lives of dement
 
 ## ☁️ &nbsp;Enterprise Cloud Architecture & Services
 
+<a href="https://raw.githubusercontent.com/GSC23-HeadHome/HeadHome/main/assets/cloud-architecture.png">
 ![Overall cloud architecture](./assets/cloud-architecture.png)
+</a>
 
 > Click image to enlarge.
 
