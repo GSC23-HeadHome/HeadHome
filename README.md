@@ -33,9 +33,9 @@ With the onset of an ageing population, the prevalence of dementia has risen dra
 
 ## 🎥 &nbsp;Demo Video
 
-<a href="https://www.youtube.com/watch?v=LzYhsY_ZCrk&ab_channel=JingXuanOng"><img src="./assets/demo-video-thumbnail.png" /></a>
+<a href="https://youtu.be/peDNWLrffIQ"><img src="./assets/demo-video-thumbnail.png" /></a>
 
-> Video Link: https://www.youtube.com/watch?v=LzYhsY_ZCrk&ab_channel=JingXuanOng
+> Video Link: https://youtu.be/peDNWLrffIQ
 
 ## 🛠️ &nbsp;Key Functionalities
 
